@@ -58,6 +58,7 @@ const config: Config = {
           label: '全书浏览',
         },
         { to: 'docs/note-obgyn/intro', label: '妇产科学', position: 'left'},
+        { to: 'docs/note-ped/intro', label: '儿科学', position: 'left'},
         { to: 'blog', label: '更新', position: 'left' },
         {
           href: 'https://github.com/chitsanfei/monster-medical-learning-book',
