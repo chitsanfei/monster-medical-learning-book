@@ -27,13 +27,13 @@ const config: Config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl: 'https://github.com/chitsanfei/monster-medical-learning-book',
+          editUrl: 'https://github.com/chitsanfei/monster-medical-learning-book/blob/master/',
         },
         blog: {
           showReadingTime: true,
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
-          editUrl: 'https://github.com/chitsanfei/monster-medical-learning-book',
+          editUrl: 'https://github.com/chitsanfei/monster-medical-learning-book/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
