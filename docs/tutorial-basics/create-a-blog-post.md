@@ -1,14 +1,19 @@
 ---
+sidebar_label: '如何发送一个更新状态'
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+```angular2html
+本文多数取自官方的说明，用于告诉有贡献想法的如何添加或修改页面。
+```
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+# 发送更新状况
 
-## Create your first Post
+我们使用 Docusaurus 的博客系统发送更新，并且这个系统存在 Tag，也可以使用 RSS 采集。
 
-Create a file at `blog/2021-02-28-greetings.md`:
+## 如何发送更新
+
+在 `blog/2021-02-28-greetings.md` 创建文件，并添加以下内容:
 
 ```md title="blog/2021-02-28-greetings.md"
 ---
@@ -31,4 +36,4 @@ Congratulations, you have made your first post!
 Feel free to play around and edit this post as much as you like.
 ```
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+您可以在 [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings) 查看内容。

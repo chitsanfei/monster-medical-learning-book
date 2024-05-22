@@ -14,34 +14,26 @@ sidebar_position: 1
 
 ### 环境
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Node.js](https://nodejs.org/en/download/) 不低于版本 18.0；
+- NPM 不低于版本 10.8.0；
+- Git。
 
 ### 获取笔记本内容
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
+从 [Github](https://github.com/chitsanfei/monster-medical-learning-book) 获取我们的笔记本的文件。
 
 ```bash
-npm init docusaurus@latest my-website classic
+git clone https://github.com/chitsanfei/monster-medical-learning-book.git
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+请注意，若您需要对笔记进行修改，您应该使用 SSH 方式进行克隆，因为现在 Github 基本禁用 HTTPS 推送。
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+### 运行笔记本文件
 
 ```bash
-cd my-website
+cd monster-medical-learning-book
 npm run start
 ```
+`cd` 命令会改变你当前的工作目录。为了运行怪物书，你需要在终端中导航到该目录。
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+`npm run start` 命令会本地构建怪物书，并通过一个开发服务器提供服务，请在 http://localhost:3000/ 进行查看。

@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "文档创建引导",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "旨在教会你如何在本项目创建文档。"
   }
 }
