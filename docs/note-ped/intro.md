@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-sidebar_label: '本书目录'
+sidebar_label: '导读'
 ---
 
-# 本书目录
+# 导读
 

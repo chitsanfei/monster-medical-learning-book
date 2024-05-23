@@ -1,6 +1,6 @@
 <div align="center">
     <hr>
-    <img src="./static/img/humor.png" height="200" alt="sekai-voice-fetch"> 
+    <img src="./static/img/humor.png" height="200" alt="humor"> 
     <h1>monster-medical-learning-book</h1>
     <b>妖怪们的医学书</b>
 </div>

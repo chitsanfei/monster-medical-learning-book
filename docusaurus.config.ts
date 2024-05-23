@@ -47,7 +47,7 @@ const config: Config = {
     navbar: {
       title: '妖怪们的医学书',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -56,6 +56,15 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: '全书浏览',
+        },
+        {
+          label: "外科学",
+          type: "dropdown",
+          to: "/docs/note-surg/intro",
+          items: [
+            { label: "导读", to: '/docs/note-surg/intro'},
+            { label: "普外科", to: '/docs/note-surg/gs/intro'},
+          ],
         },
         { to: 'docs/note-obgyn/intro', label: '妇产科学', position: 'left'},
         { to: 'docs/note-ped/intro', label: '儿科学', position: 'left'},
@@ -83,8 +92,12 @@ const config: Config = {
           title: '社区',
           items: [
             {
-              label: 'Kook 频道',
+              label: 'KOOK 频道',
               href: 'https://kook.top/y1mQnk',
+            },
+            {
+              label: '知乎',
+              href: 'https://www.zhihu.com/people/chitsanfei',
             },
           ],
         },
@@ -92,11 +105,11 @@ const config: Config = {
           title: '更多',
           items: [
             {
-              label: '作者博客',
+              label: '梅冥子的博客',
               to: 'https://emu.ac.cn',
             },
             {
-              label: 'GitHub',
+              label: '作者 GitHub',
               href: 'https://github.com/chitsanfei',
             },
           ],
