@@ -109,7 +109,7 @@ const config: Config = {
               to: 'https://emu.ac.cn',
             },
             {
-              label: '作者GitHub',
+              label: '作者 GitHub',
               href: 'https://github.com/chitsanfei',
             },
           ],
