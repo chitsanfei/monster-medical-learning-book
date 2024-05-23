@@ -105,7 +105,7 @@ const config: Config = {
           title: '更多',
           items: [
             {
-              label: '作者博客',
+              label: '梅冥子的博客',
               to: 'https://emu.ac.cn',
             },
             {
