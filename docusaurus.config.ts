@@ -58,6 +58,16 @@ const config: Config = {
           label: '全书浏览',
         },
         {
+          label: "内科学",
+          type: "dropdown",
+          to: "/docs/note-im/intro",
+          items: [
+            { label: "导读", to: '/docs/note-im/intro'},
+            { label: "呼吸内科", to: '/docs/note-im/pmi/intro'},
+            { label: "消化内科", to: '/docs/note-im/gi/intro'},
+          ],
+        },
+        {
           label: "外科学",
           type: "dropdown",
           to: "/docs/note-surg/intro",
