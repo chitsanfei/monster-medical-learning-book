@@ -1,0 +1,35 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 10rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 这个是那个沙雕图的CSS */
+.imageContainer {
+  display: block;
+  width: 250px; /* 设置图片宽度 */
+  height: auto;
+  object-fit: cover; /* 保持图片的宽高比 */
+  margin-bottom: 2rem; /* 添加2个单位的间距*/
+}
+
