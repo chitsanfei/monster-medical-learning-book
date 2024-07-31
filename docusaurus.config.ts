@@ -78,6 +78,7 @@ const config: Config = {
         },
         { to: 'docs/note-obgyn/intro', label: '妇产科学', position: 'left'},
         { to: 'docs/note-ped/intro', label: '儿科学', position: 'left'},
+        { to: 'docs/note-np/intro', label: '神经与精神病学', position: 'left'},
         { to: 'docs/note-cps/intro', label: '临床技能实践', position: 'left'},
         { to: 'blog', label: '更新', position: 'left' },
         {
@@ -103,8 +104,8 @@ const config: Config = {
           title: '社区',
           items: [
             {
-              label: 'KOOK 频道',
-              href: 'https://kook.top/y1mQnk',
+              label: '学术站',
+              href: 'https://emu.ac.cn',
             },
             {
               label: '知乎',
@@ -117,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: '梅冥子的博客',
-              to: 'https://emu.ac.cn',
+              to: 'https://sekai.us.kg',
             },
             {
               label: '作者 GitHub',
