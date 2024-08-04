@@ -9,54 +9,54 @@
   },
   "item.label.全书浏览": {
     "message": "All Books",
-    "description": "Navbar item with label for viewing all books"
+    "description": "Navbar item with label 全书浏览"
   },
   "item.label.内科学": {
     "message": "IM",
-    "description": "Navbar item with label for Internal Medicine"
+    "description": "Navbar item with label 内科学"
   },
   "item.label.外科学": {
     "message": "Surg.",
-    "description": "Navbar item with label for Surgery"
+    "description": "Navbar item with label 外科学"
   },
   "item.label.妇产科学": {
     "message": "OG",
-    "description": "Navbar item with label for Obstetrics and Gynecology"
+    "description": "Navbar item with label 妇产科学"
   },
   "item.label.儿科学": {
     "message": "Ped.",
-    "description": "Navbar item with label for Pediatrics"
+    "description": "Navbar item with label 儿科学"
   },
   "item.label.神经与精神病学": {
     "message": "N&P",
-    "description": "Navbar item with label for Neurology and Psychiatry"
+    "description": "Navbar item with label 神经与精神病学"
   },
   "item.label.临床技能实践": {
     "message": "CSP",
-    "description": "Navbar item with label for Clinical Skills Practice"
+    "description": "Navbar item with label 临床技能实践"
   },
   "item.label.更新": {
     "message": "Updates",
-    "description": "Navbar item with label for Updates"
+    "description": "Navbar item with label 更新"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Navbar item with label for GitHub"
+    "description": "Navbar item with label GitHub"
   },
   "item.label.导读": {
     "message": "Introduction",
-    "description": "Navbar item with label for Introduction"
+    "description": "Navbar item with label 导读"
   },
   "item.label.呼吸内科": {
     "message": "Respiratory Medicine",
-    "description": "Navbar item with label for Respiratory Medicine"
+    "description": "Navbar item with label 呼吸内科"
   },
   "item.label.消化内科": {
     "message": "Gastroenterology",
-    "description": "Navbar item with label for Gastroenterology"
+    "description": "Navbar item with label 消化内科"
   },
   "item.label.普外科": {
     "message": "General Surgery",
-    "description": "Navbar item with label for General Surgery"
+    "description": "Navbar item with label 普外科"
   }
 }

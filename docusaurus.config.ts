@@ -16,6 +16,15 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  plugins: [
+    [
+      require.resolve("docusaurus-lunr-search"),
+      {
+        languages: ['zh', 'en'],
+      },
+    ],
+  ],
+
   i18n: {
     defaultLocale: 'zh-CN',
     locales: ['zh-CN', 'en-US'],

@@ -285,5 +285,26 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "homepage.getStarted.button": {
+    "message": "Start Your Trip"
+  },
+  "homepage.features.description.left": {
+    "message": "The Monster Medical Book contains no extraneous descriptions or explanations found in typical textbooks, making it the fastest way to review key points."
+  },
+  "homepage.features.description.mid": {
+    "message": "The Monster Medical Book is reviewed by current medical students and is updated as much as possible to ensure the accuracy and relevance of the medical information."
+  },
+  "homepage.features.description.right": {
+    "message": "We aim to prepare the next generation by breaking down knowledge barriers and enabling more students to access new content."
+  },
+  "homepage.features.header.left": {
+    "message": "Easy to Use"
+  },
+  "homepage.features.header.mid": {
+    "message": "Profession"
+  },
+  "homepage.features.header.right": {
+    "message": "Next Generation"
   }
 }
