@@ -1,7 +1,7 @@
 ---
 sidebar_position: 0
-sidebar_label: '导读'
+sidebar_label: 'Intro'
 ---
 
-# 导读
+# Intro
 

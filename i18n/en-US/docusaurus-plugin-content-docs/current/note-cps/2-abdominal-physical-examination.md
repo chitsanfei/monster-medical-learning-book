@@ -1,43 +1,46 @@
 ---
 sidebar_position: 2
-sidebar_label: '腹部体格检查'
+sidebar_label: 'Abdominal Physical Examination'
 ---
 
-# 腹部体格检查
+:::danger
+This article is automatically translated and has not yet been reviewed by an expert!
+:::
 
-## 预检查
+# Abdominal Physical Examination
 
-- 检查手消是否在有效期内。
-- 核对患者信息是否正确。
-- 介绍。
-> 先生您好，我是您的主管医生，因病情需要，现在需要进行腹部体格检查。
+## Pre-examination
 
-## 视诊
+- Check if the hand sanitizer is within its expiration date.
+- Verify the patient's information.
+- Introduction:
+  > Greetings, I am your attending physician. Due to the needs of your condition, we need to perform an abdominal physical examination.
 
-- 患者右侧。
-- 平视患者腹部。
-> 被检查者以腹式呼吸为主，腹部平坦，未见皮疹、破溃、色素沉着、手术疤痕等，未见静脉曲张、胃肠型、蠕动波等，未见疝、腹纹等。
+## Inspection
 
-## 听诊
+- Patient on their right side.
+- Examine the abdomen at eye level.
+  > The examinee primarily breathes abdominally. The abdomen is flat, with no visible rashes, ulcers, pigmentation, surgical scars, etc., no varicose veins, gastric or intestinal patterns, peristaltic waves, etc., and no hernias or striae.
 
-- 肠鸣音：听诊器扣于腹部。计时 1 min，4 / min。
-- 动脉听诊：
-  - 腹主动脉：脐与剑突连线的中点。
-  - 肾动脉：位于上腹两侧，脐与剑突连线中点水平与腹直肌外缘相交点。
-  - 髂动脉：位于下腹两侧，脐与耻骨联合连线中点略上 2 cm 水平与腹直肌外缘相交点。
+## Auscultation
 
-[//]: # (  - 股动脉：位于腹股沟韧带中点。)
-- 搔刮音：听诊器扣于检查者侧，进行向听诊器位置的搔刮。
+- Bowel sounds: Place the stethoscope on the abdomen. Time for 1 minute, 4 sounds per minute.
+- Arterial auscultation:
+  - Abdominal aorta: Midpoint of the line between the umbilicus and xiphoid process.
+  - Renal arteries: At the intersection of the midline of the line between the umbilicus and xiphoid process and the lateral border of the rectus abdominis muscle on both sides of the upper abdomen.
+  - Iliac arteries: At the intersection of the lateral border of the rectus abdominis muscle and 2 cm above the midpoint of the line between the umbilicus and pubic symphysis on both sides of the lower abdomen.
 
-## 叩诊
+  - Scratching sounds: Place the stethoscope on the examiner’s side and scratch toward the stethoscope position.
 
-- 左下腹开（远离检查者侧），逆时针（先向上运动）向脐周叩诊。汇报鼓音。
-- 肝界叩诊：
-  - 右侧肋弓开始，到右锁骨中线第5肋间，清音变浊。
-  - 右侧腹部开始，到右侧肋弓中线交点，鼓音变浊。
-- 移动性浊音叩诊（下为阳性体征）：
-  - 脐水平开始，由脐水平由中心向左叩诊，鼓音变浊，右侧卧位后，原点由浊变鼓。
-  - 回扣，扣直右侧，浊音变为鼓音，左侧卧位，原点浊音变鼓音。
-- 膀胱叩诊：脐中线下，由鼓音变浊。
+## Percussion
 
-## 触诊
+- Start from the left lower quadrant (away from the examiner), percuss counterclockwise (initially upwards) towards the umbilical region. Report tympany.
+- Liver boundary percussion:
+  - Begin at the right costal margin, reaching the fifth intercostal space along the right midclavicular line, where clear sounds change to dull.
+  - Begin at the right side of the abdomen, reaching the point where the umbilicus intersects the right costal margin, where tympanic sounds change to dull.
+- Percussion for shifting dullness (positive sign):
+  - Start at the umbilical level, percussing from the center to the left, tympany changes to dullness; after turning onto the right side, the original point changes from dull to tympanic.
+  - Repercuss, percuss directly to the right, dullness changes to tympany; after turning onto the left side, the original point changes from dull to tympanic.
+- Bladder percussion: Below the umbilical midline, from tympany to dullness.
+
+## Palpation

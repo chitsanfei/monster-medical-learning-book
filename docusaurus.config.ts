@@ -18,19 +18,13 @@ const config: Config = {
 
   i18n: {
     defaultLocale: 'zh-CN',
-    locales: ['zh-CN', 'zh-TW', 'en-US', 'ja-JP'],
+    locales: ['zh-CN', 'en-US'],
     localeConfigs: {
       'zh-CN': {
         htmlLang: 'zh-CN',
       },
-      'zh-TW': {
-        htmlLang: 'zh-TW',
-      },
       'en-US': {
         htmlLang: 'en-US',
-      },
-      'ja-JP': {
-        htmlLang: 'ja-JP',
       },
     },
   },

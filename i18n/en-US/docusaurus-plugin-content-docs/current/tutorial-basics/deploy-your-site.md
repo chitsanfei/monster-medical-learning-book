@@ -1,36 +1,36 @@
 ---
-sidebar_label: '手动部署'
+sidebar_label: 'Manual Deployment'
 sidebar_position: 4
 ---
 
 :::warning
-本文多数取自官方的说明，用于告诉有贡献想法的如何添加或修改页面。
+This article is mostly derived from the official documentation, intended to guide contributors on how to add or modify pages.
 :::
 
-# 部署网站
+# Deploying the Website
 
-通常来讲，您修改内容并不需要进行手动部署。您只需要在 Github 中提出一个 Pull Request（即PR）请求，当我们完成审核后，我们将合并您的内容，您修改的内容会通过 CI 流程自动推送修改。
+Generally, you do not need to deploy manually when you make changes. You just need to submit a Pull Request (PR) in Github. After we review, we will merge your content. The changes you made will be automatically pushed through the CI process.
 
-若您需要手动编译，请安装下面的内容进行。
+If you need to build manually, please install the following.
 
-## 手动构建
+## Manual Build
 
-构建产品
+Build the production version.
 
 ```bash
 npm run build
 ```
 
-构建到的静态文件会保存在 `build` 文件夹。
+The static files built will be saved in the build folder.
 
-## 手动部署
+## Manual Deployment
 
-本地测试您的产品是否可用。
+Test your production locally for availability.
 
 ```bash
 npm run serve
 ```
 
-构建的build文件夹现可通过 http://localhost:3000/ 进行访问。
+The built build folder is now accessible via http://localhost:3000/.
 
-你现在可以轻松地将build文件夹部署到几乎任何地方。
+You can now easily deploy the build folder almost anywhere.

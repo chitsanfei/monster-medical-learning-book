@@ -1,19 +1,19 @@
 ---
 sidebar_position: 22
-sidebar_label: '呼吸衰竭'
+sidebar_label: 'Respiratory Failure'
 ---
 
-# 呼吸衰竭
+# Respiratory Failure
 
-## 概述
+## Overview
 
-- def：Respiratory Failure（RF）各种原因导致肺通气和或肺换气功能障碍出现缺氧和二氧化碳潴留，引起生理功能和代谢紊乱，称为呼吸衰竭。
-- 标压：PaO2 < 60 mmHg，和或 PaCO2 > 50 mmHg。
+- Definition: Respiratory Failure (RF) is defined as a severe impairment of pulmonary ventilation or alveolar gas exchange leading to hypoxemia and/or hypercapnia, causing physiological and metabolic disturbances.
+- Criteria: PaO2 < 60 mmHg, and/or PaCO2 > 50 mmHg.
 
-## 病因
+## Causes
 
-- 通气障碍。
-  - 通常发生 II 型呼吸衰竭（缺氧伴高碳酸血症）。
-- 换气障碍。
-- 运输障碍。
-- 低氧环境。
+- Ventilation impairment.
+  - Typically results in Type II respiratory failure (hypoxemia with hypercapnia).
+- Gas exchange impairment.
+- Transport impairment.
+- Hypoxic environment.
