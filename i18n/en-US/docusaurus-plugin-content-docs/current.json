@@ -1,0 +1,146 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.文档创建引导": {
+    "message": "Document Creation Guide",
+    "description": "The label for category 文档创建引导 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.文档创建引导.link.generated-index.description": {
+    "message": "Aims to teach you how to create documents in this project.",
+    "description": "The generated-index page description for category 文档创建引导 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.内科学": {
+    "message": "Internal Medicine",
+    "description": "The label for category 内科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.内科学.link.generated-index.description": {
+    "message": "Internists practicing the art of healing, with wise hearts and benevolent skills writing a splendid chapter.",
+    "description": "The generated-index page description for category 内科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.呼吸内科": {
+    "message": "Pulmonology",
+    "description": "The label for category 呼吸内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.呼吸内科.link.generated-index.description": {
+    "message": "Like spring rain nourishing dry lungs, the art of pulmonology excels.",
+    "description": "The generated-index page description for category 呼吸内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.消化内科": {
+    "message": "Gastroenterology",
+    "description": "The label for category 消化内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.消化内科.link.generated-index.description": {
+    "message": "Who can solve the myriad diseases within? The skilled hands of gastroenterology heal.",
+    "description": "The generated-index page description for category 消化内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.外科学": {
+    "message": "Surgery",
+    "description": "The label for category 外科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.外科学.link.generated-index.description": {
+    "message": "Sharp blades relieve human woes, skilled hands bring back spring and harvest health.",
+    "description": "The generated-index page description for category 外科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.普外科": {
+    "message": "General Surgery",
+    "description": "The label for category 普外科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.普外科.link.generated-index.description": {
+    "message": "Skilled hands solve abdominal troubles, performing miracles in the shadow of the scalpel.",
+    "description": "The generated-index page description for category 普外科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.妇产科学": {
+    "message": "Obstetrics and Gynecology",
+    "description": "The label for category 妇产科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.妇产科学.link.generated-index.description": {
+    "message": "A mother's heart nurtures new life, the sound of a baby's cry rings out like a bell in heaven and earth.",
+    "description": "The generated-index page description for category 妇产科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.儿科学": {
+    "message": "Pediatrics",
+    "description": "The label for category 儿科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.儿科学.link.generated-index.description": {
+    "message": "Pure childlike hearts heal the world, laughter like the wind brings endless joy.",
+    "description": "The generated-index page description for category 儿科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.神经与精神病学": {
+    "message": "Neurology and Psychiatry",
+    "description": "The label for category 神经与精神病学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.神经与精神病学.link.generated-index.description": {
+    "message": "Amidst complex nerves, the mind remains calm; amidst myriad mental phenomena, clarity prevails.",
+    "description": "The generated-index page description for category 神经与精神病学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.临床技能实践": {
+    "message": "Clinical Skills Practice",
+    "description": "The label for category 临床技能实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.临床技能实践.link.generated-index.description": {
+    "message": "Clinical skills reveal wonders, practical operations showcase talent.",
+    "description": "The generated-index page description for category 临床技能实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.docsNoteObgyn.category.妇产科学": {
+    "message": "Obstetrics and Gynecology",
+    "description": "The label for category 妇产科学 in sidebar docsNoteObgyn"
+  },
+  "sidebar.docsNotePed.category.儿科学": {
+    "message": "Pediatrics",
+    "description": "The label for category 儿科学 in sidebar docsNotePed"
+  },
+  "sidebar.docsNoteInternal.category.内科学": {
+    "message": "Internal Medicine",
+    "description": "The label for category 内科学 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.呼吸内科": {
+    "message": "Pulmonology",
+    "description": "The label for category 呼吸内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.呼吸内科.link.generated-index.description": {
+    "message": "Like spring rain nourishing dry lungs, the art of pulmonology excels.",
+    "description": "The generated-index page description for category 呼吸内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.消化内科": {
+    "message": "Gastroenterology",
+    "description": "The label for category 消化内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.消化内科.link.generated-index.description": {
+    "message": "Who can solve the myriad diseases within? The skilled hands of gastroenterology heal.",
+    "description": "The generated-index page description for category 消化内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternalBreath.category.呼吸内科": {
+    "message": "Pulmonology",
+    "description": "The label for category 呼吸内科 in sidebar docsNoteInternalBreath"
+  },
+  "sidebar.docsNoteInternalDigest.category.消化内科": {
+    "message": "Gastroenterology",
+    "description": "The label for category 消化内科 in sidebar docsNoteInternalDigest"
+  },
+  "sidebar.docsNoteSurg.category.外科学": {
+    "message": "Surgery",
+    "description": "The label for category 外科学 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurg.category.普外科": {
+    "message": "General Surgery",
+    "description": "The label for category 普外科 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurg.category.普外科.link.generated-index.description": {
+    "message": "Skilled hands solve abdominal troubles, performing miracles in the shadow of the scalpel.",
+    "description": "The generated-index page description for category 普外科 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurgGS.category.普外科": {
+    "message": "General Surgery",
+    "description": "The label for category 普外科 in sidebar docsNoteSurgGS"
+  },
+  "sidebar.docsNoteNeuro.category.神经与精神病学": {
+    "message": "Neurology and Psychiatry",
+    "description": "The label for category 神经与精神病学 in sidebar docsNoteNeuro"
+  },
+  "sidebar.docsNoteCPS.category.临床技能实践": {
+    "message": "Clinical Skills Practice",
+    "description": "The label for category 临床技能实践 in sidebar docsNoteCPS"
+  }
+}

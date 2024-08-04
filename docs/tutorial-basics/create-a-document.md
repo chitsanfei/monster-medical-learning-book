@@ -3,9 +3,9 @@ sidebar_label: '如何新建一个文档'
 sidebar_position: 2
 ---
 
-```angular2html
+:::warning
 本文多数取自官方的说明，用于告诉有贡献想法的如何添加或修改页面。
-```
+:::
 
 # 如何创建一个文档
 
@@ -60,5 +60,3 @@ export default {
   ],
 };
 ```
-
-特别的，本项目使用 ts，所以侧边栏

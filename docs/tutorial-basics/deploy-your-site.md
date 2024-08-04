@@ -3,9 +3,9 @@ sidebar_label: '手动部署'
 sidebar_position: 4
 ---
 
-```angular2html
+:::warning
 本文多数取自官方的说明，用于告诉有贡献想法的如何添加或修改页面。
-```
+:::
 
 # 部署网站
 
