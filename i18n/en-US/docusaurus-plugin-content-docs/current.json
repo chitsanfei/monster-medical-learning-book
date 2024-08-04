@@ -1,0 +1,146 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.文档创建引导": {
+    "message": "文档创建引导",
+    "description": "The label for category 文档创建引导 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.文档创建引导.link.generated-index.description": {
+    "message": "旨在教会你如何在本项目创建文档。",
+    "description": "The generated-index page description for category 文档创建引导 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.内科学": {
+    "message": "内科学",
+    "description": "The label for category 内科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.内科学.link.generated-index.description": {
+    "message": "悬壶济世内科子，慧心仁术谱华章。",
+    "description": "The generated-index page description for category 内科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.呼吸内科": {
+    "message": "呼吸内科",
+    "description": "The label for category 呼吸内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.呼吸内科.link.generated-index.description": {
+    "message": "春风化雨润肺燥，呼吸内科医道高。",
+    "description": "The generated-index page description for category 呼吸内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.消化内科": {
+    "message": "消化内科",
+    "description": "The label for category 消化内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.消化内科.link.generated-index.description": {
+    "message": "腹中百病谁能解，消化科中妙手回。",
+    "description": "The generated-index page description for category 消化内科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.外科学": {
+    "message": "外科学",
+    "description": "The label for category 外科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.外科学.link.generated-index.description": {
+    "message": "刀锋利术解人忧，妙手回春病疾收。",
+    "description": "The generated-index page description for category 外科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.普外科": {
+    "message": "普外科",
+    "description": "The label for category 普外科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.普外科.link.generated-index.description": {
+    "message": "腹腔解难妙手神，刀光影里济世人。",
+    "description": "The generated-index page description for category 普外科 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.妇产科学": {
+    "message": "妇产科学",
+    "description": "The label for category 妇产科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.妇产科学.link.generated-index.description": {
+    "message": "慈母心怀孕新命，儿啼声中天地钟。",
+    "description": "The generated-index page description for category 妇产科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.儿科学": {
+    "message": "儿科学",
+    "description": "The label for category 儿科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.儿科学.link.generated-index.description": {
+    "message": "童心纯净医天地，笑语如风乐无边。",
+    "description": "The generated-index page description for category 儿科学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.神经与精神病学": {
+    "message": "神经与精神病学",
+    "description": "The label for category 神经与精神病学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.神经与精神病学.link.generated-index.description": {
+    "message": "神经纷繁心犹静，精神万象志常明。",
+    "description": "The generated-index page description for category 神经与精神病学 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.临床技能实践": {
+    "message": "临床技能实践",
+    "description": "The label for category 临床技能实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.临床技能实践.link.generated-index.description": {
+    "message": "临床技艺显神奇，实践操作展才华。",
+    "description": "The generated-index page description for category 临床技能实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.docsNoteObgyn.category.妇产科学": {
+    "message": "妇产科学",
+    "description": "The label for category 妇产科学 in sidebar docsNoteObgyn"
+  },
+  "sidebar.docsNotePed.category.儿科学": {
+    "message": "儿科学",
+    "description": "The label for category 儿科学 in sidebar docsNotePed"
+  },
+  "sidebar.docsNoteInternal.category.内科学": {
+    "message": "内科学",
+    "description": "The label for category 内科学 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.呼吸内科": {
+    "message": "呼吸内科",
+    "description": "The label for category 呼吸内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.呼吸内科.link.generated-index.description": {
+    "message": "春风化雨润肺燥，呼吸内科医道高。",
+    "description": "The generated-index page description for category 呼吸内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.消化内科": {
+    "message": "消化内科",
+    "description": "The label for category 消化内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternal.category.消化内科.link.generated-index.description": {
+    "message": "腹中百病谁能解，消化科中妙手回。",
+    "description": "The generated-index page description for category 消化内科 in sidebar docsNoteInternal"
+  },
+  "sidebar.docsNoteInternalBreath.category.呼吸内科": {
+    "message": "呼吸内科",
+    "description": "The label for category 呼吸内科 in sidebar docsNoteInternalBreath"
+  },
+  "sidebar.docsNoteInternalDigest.category.消化内科": {
+    "message": "消化内科",
+    "description": "The label for category 消化内科 in sidebar docsNoteInternalDigest"
+  },
+  "sidebar.docsNoteSurg.category.外科学": {
+    "message": "外科学",
+    "description": "The label for category 外科学 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurg.category.普外科": {
+    "message": "普外科",
+    "description": "The label for category 普外科 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurg.category.普外科.link.generated-index.description": {
+    "message": "腹腔解难妙手神，刀光影里济世人。",
+    "description": "The generated-index page description for category 普外科 in sidebar docsNoteSurg"
+  },
+  "sidebar.docsNoteSurgGS.category.普外科": {
+    "message": "普外科",
+    "description": "The label for category 普外科 in sidebar docsNoteSurgGS"
+  },
+  "sidebar.docsNoteNeuro.category.神经与精神病学": {
+    "message": "神经与精神病学",
+    "description": "The label for category 神经与精神病学 in sidebar docsNoteNeuro"
+  },
+  "sidebar.docsNoteCPS.category.临床技能实践": {
+    "message": "临床技能实践",
+    "description": "The label for category 临床技能实践 in sidebar docsNoteCPS"
+  }
+}

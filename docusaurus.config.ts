@@ -17,8 +17,22 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'zh-cn',
-    locales: ['zh-cn'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN', 'zh-TW', 'en-US', 'ja-JP'],
+    localeConfigs: {
+      'zh-CN': {
+        htmlLang: 'zh-CN',
+      },
+      'zh-TW': {
+        htmlLang: 'zh-TW',
+      },
+      'en-US': {
+        htmlLang: 'en-US',
+      },
+      'ja-JP': {
+        htmlLang: 'ja-JP',
+      },
+    },
   },
 
   presets: [
@@ -81,6 +95,10 @@ const config: Config = {
         { to: 'docs/note-np/intro', label: '神经与精神病学', position: 'left'},
         { to: 'docs/note-cps/intro', label: '临床技能实践', position: 'left'},
         { to: 'blog', label: '更新', position: 'left' },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/chitsanfei/monster-medical-learning-book',
           label: 'GitHub',

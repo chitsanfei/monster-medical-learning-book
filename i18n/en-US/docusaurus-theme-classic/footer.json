@@ -1,0 +1,38 @@
+{
+  "link.title.导览": {
+    "message": "Navigation",
+    "description": "The title of the footer links column with title=导览 in the footer"
+  },
+  "link.title.社区": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=社区 in the footer"
+  },
+  "link.title.更多": {
+    "message": "More",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.开始阅读": {
+    "message": "Start Reading",
+    "description": "The label of footer link with label=开始阅读 linking to /docs/intro"
+  },
+  "link.item.label.学术站": {
+    "message": "Emu Academic",
+    "description": "The label of footer link with label=学术站 linking to https://emu.ac.cn"
+  },
+  "link.item.label.知乎": {
+    "message": "Zhihu",
+    "description": "The label of footer link with label=知乎 linking to https://www.zhihu.com/people/chitsanfei"
+  },
+  "link.item.label.梅冥子的博客": {
+    "message": "Chitsanfei's Blog",
+    "description": "The label of footer link with label=梅冥子的博客 linking to https://sekai.us.kg"
+  },
+  "link.item.label.作者 GitHub": {
+    "message": "Author's GitHub",
+    "description": "The label of footer link with label=作者 GitHub linking to https://github.com/chitsanfei"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Monster's Medical Book, Inc. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

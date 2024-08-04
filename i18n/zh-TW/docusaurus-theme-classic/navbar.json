@@ -1,0 +1,62 @@
+{
+  "title": {
+    "message": "妖怪们的医学书",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.全书浏览": {
+    "message": "全书浏览",
+    "description": "Navbar item with label 全书浏览"
+  },
+  "item.label.内科学": {
+    "message": "内科学",
+    "description": "Navbar item with label 内科学"
+  },
+  "item.label.外科学": {
+    "message": "外科学",
+    "description": "Navbar item with label 外科学"
+  },
+  "item.label.妇产科学": {
+    "message": "妇产科学",
+    "description": "Navbar item with label 妇产科学"
+  },
+  "item.label.儿科学": {
+    "message": "儿科学",
+    "description": "Navbar item with label 儿科学"
+  },
+  "item.label.神经与精神病学": {
+    "message": "神经与精神病学",
+    "description": "Navbar item with label 神经与精神病学"
+  },
+  "item.label.临床技能实践": {
+    "message": "临床技能实践",
+    "description": "Navbar item with label 临床技能实践"
+  },
+  "item.label.更新": {
+    "message": "更新",
+    "description": "Navbar item with label 更新"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.导读": {
+    "message": "导读",
+    "description": "Navbar item with label 导读"
+  },
+  "item.label.呼吸内科": {
+    "message": "呼吸内科",
+    "description": "Navbar item with label 呼吸内科"
+  },
+  "item.label.消化内科": {
+    "message": "消化内科",
+    "description": "Navbar item with label 消化内科"
+  },
+  "item.label.普外科": {
+    "message": "普外科",
+    "description": "Navbar item with label 普外科"
+  }
+}
