@@ -3,13 +3,10 @@ sidebar_position: 22
 sidebar_label: 'Respiratory Failure'
 ---
 
-<<<<<<< HEAD
 :::danger
 This article is automatically translated and has not yet been reviewed by an expert!
 :::
 
-=======
->>>>>>> f6ce3e57488276103c6ff592b31c50f92744c88a
 # Respiratory Failure
 
 ## Overview
