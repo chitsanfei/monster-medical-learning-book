@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run start)",
+      "Bash(npm install)",
+      "Bash(lsof:*)",
+      "Bash(xargs:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

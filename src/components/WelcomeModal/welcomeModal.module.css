@@ -1,0 +1,214 @@
+/* 背景遮罩 */
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55),
+              visibility 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.backdropVisible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.backdropAnimatingOut {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* 弹出窗口 */
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.9);
+  z-index: 1001;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.modalVisible {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.modalAnimatingOut {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-50%, -50%) scale(0.85);
+}
+
+.modalContent {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 24px;
+  padding: 48px 40px;
+  max-width: 500px;
+  width: 90%;
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.3),
+    0 2px 8px rgba(0, 0, 0, 0.12);
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* 顶部红色色彩条（默认） */
+.modalContent::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: #FF0000;
+  z-index: 1;
+}
+
+/* 顶部蓝色色彩条（悬停时显示） */
+.modalContent::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: #0080FF;
+  z-index: 1;
+  clip-path: inset(0 100% 0 0);
+  transition: clip-path 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+/* 鼠标悬停在按钮上时，蓝色条从左到右展开 */
+.modal:hover .modalContent::after {
+  clip-path: inset(0 0 0 0);
+}
+
+/* 警告图标动画 */
+.warningIcon {
+  margin-bottom: 24px;
+  animation: iconFloat 3s ease-in-out infinite;
+}
+
+@keyframes iconFloat {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.warningIcon svg {
+  display: block;
+  margin: 0 auto;
+  filter: drop-shadow(0 4px 12px rgba(255, 165, 0, 0.3));
+}
+
+/* 标题样式 */
+.title {
+  color: white;
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  letter-spacing: -0.5px;
+  animation: fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1) 0.2s both;
+}
+
+/* 描述文字 */
+.description {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 0 0 32px 0;
+  animation: fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1) 0.3s both;
+}
+
+/* 同意按钮 */
+.agreeButton {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  border: none;
+  padding: 14px 48px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
+  animation: fadeInUp 0.6s cubic-bezier(0.4, 0, 0.2, 1) 0.4s both;
+  position: relative;
+  overflow: hidden;
+}
+
+.agreeButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(245, 87, 108, 0.5);
+}
+
+.agreeButton:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
+}
+
+.agreeButton::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
+  transition: left 0.6s;
+}
+
+.agreeButton:hover::before {
+  left: 100%;
+}
+
+/* 淡入动画 */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 响应式设计 */
+@media (max-width: 640px) {
+  .modalContent {
+    padding: 36px 28px;
+    border-radius: 20px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .description {
+    font-size: 15px;
+  }
+
+  .warningIcon svg {
+    width: 64px;
+    height: 64px;
+  }
+}

@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import WelcomeModal from '@site/src/components/WelcomeModal';
 
 import Translate, {translate} from '@docusaurus/Translate';
 
@@ -39,6 +40,7 @@ export default function Home(): JSX.Element {
         <Layout
             title={`Hello from ${siteConfig.title}`}
       description="A Next-Generation Based Medical Book">
+      <WelcomeModal />
       <HomepageHeader />
       <main>
         <HomepageFeatures />
